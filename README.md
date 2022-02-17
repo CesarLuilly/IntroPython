@@ -15,3 +15,6 @@
 **Co-Author : Fernanda Ochoa**
 
 **Date: 16:02/2022**
+
+
+Version original is at this repo: https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython
