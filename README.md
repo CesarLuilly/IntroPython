@@ -1,6 +1,6 @@
 # IntroPython
 
-## Course Python By InnovacionVirtual LaunchX
+## Course Introductory to Python By InnovacionVirtual LaunchX
 
 ### Solve Katas
 
@@ -16,5 +16,4 @@
 
 **Date: 16:02/2022**
 
-
-Version original is at this repo: https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython
+Taking how base repo: https://github.com/LaunchX-InnovaccionVirtual/CursoIntroPython
